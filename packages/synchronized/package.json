@@ -1,0 +1,10 @@
+{
+  "name": "synchronized",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}

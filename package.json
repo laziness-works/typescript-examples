@@ -1,0 +1,18 @@
+{
+  "name": "typescript-examples",
+  "description": "TypeScript example codes",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laziness-works/typescript-examples.git"
+  },
+  "author": "Laziness Works",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laziness-works/typescript-examples/issues"
+  },
+  "homepage": "https://github.com/laziness-works/typescript-examples#readme",
+  "workspaces": [
+    "packages/synchronized"
+  ]
+}
